@@ -10,7 +10,7 @@ public class InOut1 {
   public static void main(String[] args) {
     
     //make sure user gave input
-    if(args.length < 2) { //returns length of array in bytes, *NOT* length of a variable in characters
+    if(args.length < 2) { //returns length of array in entries, *NOT* length of a variable in characters
       System.out.println("Usage: InOut1 [first name] [last name] <letter character> <whitespace character>");
       System.out.println("[required] <optional>");
       return;
