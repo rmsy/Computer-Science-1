@@ -1,0 +1,71 @@
+Computer Science 1 AP
+Practice with input and output
+
+Here are some programs that will give you practice in performing input
+and output. Please write these programs according to the specifications
+shown. Make your output match the form of the examples as closely as
+you can.
+
+
+Remember, the first time you compile a new program, you are asked for the 
+filename. The filename must match your program name. But change the folder
+in which to save the program to your folder on the d: drive. If you have
+trouble with this, let me know.
+
+When you are done for the day, copy your programs (the files that end in 
+".java") to your jump drive. Make sure you back your working files up.
+
+
+
+save as InOut1
+================
+  Print YOUR intials on the screen. For instance, if your name is Freddy
+  Krueger, your output would look like:
+
+  FFFFFFF   K     K
+  F         K   K
+  FFFF      K K
+  F         K  K
+  F         K   K
+  F         K     K   
+
+
+
+save as InOut2
+================
+  Print YOUR name, address, and phone number on separate lines.
+
+
+
+save as InOut3
+================
+  Ask the user for three decimal numbers, then print the information in
+EXACTLY the form shown below. For instance, if you test with these numbers:
+2.56318, 17.4, and 100 the output should be:
+
+Your numbers were 2.5632, 17.4000, and 100.0000
+
+
+
+save as InOut4
+================
+  Same as inout3 above, except print the numbers in the reverse order from
+the way the user entered them. Testing with the same numbers as before,
+the output should be:
+
+Your numbers were 100.0000, 17.4000, and 2.5632
+
+
+
+save as InOut5
+================
+  Ask the user for his first name, middle initial (a char), and his last name.
+Then print the entire name in information in both forms shown below. So if the
+user's first name is "Johnny", his last name is "Goode", and hiw middle initial
+is "B" the output would be:
+
+Name    : Johnny B. Goode
+Name    : Goode, Johnny B.
+
+Please notice that the user won't be entering the period after his/her
+middle initial...
