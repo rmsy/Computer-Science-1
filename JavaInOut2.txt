@@ -1,0 +1,112 @@
+Computer Science 1 AP
+Practice with input and output
+
+Here are some programs that will give you practice in performing input
+and output. Please write these programs according to the specifications
+shown. Make your output match the form of the examples as closely as
+you can.
+
+
+Remember, the first time you compile a new program, you are asked for the 
+filename. The filename must match your program name. But change the folder
+in which to save the program to your folder on the d: drive. If you have
+trouble with this, let me know.
+
+When you are done for the day, copy your programs (the files that end in 
+".java") to your jump drive. Make sure you back your working files up.
+
+
+
+Save as InOut6
+================
+Get the user's name, age, and the amount of their hourly wage. Assume
+the wage will be less than 100 dollars per hour. Print the information
+so that:
+
+  1. The right side of each line is 20 characters from the left side
+     of the screen.
+
+  2. The hourly wage is shown with a dollar sign and 2 decimal places.
+
+Example: if Donald Duck is 19 years old and makes 75 dollars per hour,
+         the output would be:
+
+         Donald Duck
+                  19
+              $75.00
+
+Example: if Freddy Kruger is 193 years old and makes 2.98 per hour,
+         the output would be:
+
+       Freddy Kruger
+                 193
+              $ 2.98
+
+
+
+Save as InOut7
+================
+Get the user's name, place of employment, age, and years on the job.
+Print the information in EXACTLY the form shown below.
+
+Example: if Al Bundy is 50 years old, has worked at The Shoe Palace
+         for 28 years, the output would be:
+
+Name : Al Bundy
+Work : The Shoe Palace
+Time : 28 years
+Age  : 50
+
+
+
+Save as InOut8
+================
+Get the user's name, gpa, rank, and the number of students
+in their class. Print the information in EXACTLY the form shown
+below.
+
+Example: Ima Toobright has a gpa of 4.52 and is first in her class
+         of 386; the output would be:
+
+Ima Toobright, whose gpa = 4.5200, is #1 out of 386 students
+
+
+Example: Willy Getout has a gpa of 0.997 and is 302 in his class
+         of 305; the output would be:
+
+Willy Getout, whose gpa = 0.9970, is #302 out of 305 students
+
+
+
+Save as InOut9
+================
+Get three students' names and how many pages each read over the
+summer. Print the information in EXACTLY the form shown below.
+You can assume no student read more than one thousand pages and
+that no name is more than 20 characters in length.
+
+HINT: Think of the data as being printed out in three fields, 
+      and set the field width for each...
+
+
+                Student        Pages
+++++++++++++++++++++++++++++++++++++
+1.          Lottie Time          876
+2.      "Biz" E. Always            4
+3.          I.B. Normal          251
+
+
+
+Save as InOut10
+=================
+Ask the user for a String. Print the String on four separate lines, 
+indenting by five characters each time. The only things you can use
+in your printf's are the String variable name and field with. You
+cannot put any spaces in the printf's. For example, if my String is
+"Man, this is weird", then the output would be:
+
+Man, this is weird
+     Man, this is weird
+          Man, this is weird
+               Man, this is weird
+

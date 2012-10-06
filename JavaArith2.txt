@@ -1,0 +1,80 @@
+Computer Science 1 AP
+Java arithmetic programs
+
+  Make your output EXACTLY matches the form of the example(s)
+********************************************************************
+
+
+Save as JavaArith6
+==================
+Get a basketball player's name, the number of free throws attempted,
+and the number of free throws made. Then calculate the free throw
+average according to this formula:
+
+                          # made
+   Free throw average = ------------
+                        # attempted
+
+Output should look like this
+
+Name : Wilda Shott
+Free throws attempted = 76
+Free throws made      = 29
+Average               = 0.382
+
+
+NOTE: the # attempted and # made must be ints...
+
+
+
+Save as JavaArith7
+==================
+Get the number of questions on a test (int) and the number
+the person got right (int). Print out the information
+in this form:
+
+There were 35 questions on the test
+You answered 27 correctly
+You missed 8
+The percentage correct was 77.1%
+
+
+
+Save as JavaArith8
+==================
+Ask the user for the measure of two interior angles of a 
+triangle. Then show the output like this:
+
+First angle = 28.6 degrees
+Second angle = 100.9 degrees
+Remaining angle = 50.5 degrees
+
+
+
+Save as JavaArith9
+==================
+Ask the user for a number. Print a table of 5 squares and cubes,
+beginning with the user's number. If the user chose 3, the table would
+look like this:
+
+Number          Square          Cube
+====================================
+     3               9            27
+     4              16            64
+     5              25           125
+     6              36           216
+     7              49           343
+
+
+
+Save as JavaArith10
+===================
+A linear equation is in the form: AX + B = C. Ask the user for the values
+for A, B, and C, then solve for X. Output should be in this form:
+(NOTE: Assume that A will NOT be 0)
+
+Your equation : 5X + 9 = 2
+X = -1.4
+
+
+

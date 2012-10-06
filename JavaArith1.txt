@@ -1,0 +1,65 @@
+Computer Science 1 AP
+Java arithmetic programs
+
+  Make your output EXACTLY matches the form of the example(s)
+********************************************************************
+
+
+Save as JavaArith1
+==================
+Declare a constant named PI with a value 3.14159. Then ask the user for
+the radius of a circle. Please print out the following information,
+using your constant in the calculations:
+
+Your radius       =    5.3000
+The diameter      =   10.6000
+The circumference =   33.3009
+The area          =   88.2473
+
+Notice that each value has 4 decimal places, and the decimal points
+all line up...
+
+
+
+Save as JavaArith2
+==================
+Ask the user for a length in inches; then convert to centimeters and
+print the information in the following form 
+(NOTE: 1 in = 2.54 cm)
+
+28.9 inches = 73.406 centimeters
+
+
+Save as JavaArith3
+==================
+Ask the user for the number of ounces. Then convert to pounds and 
+ounces. Please make the input in the following form:
+(NOTE 1 pound = 16 ounces)
+
+
+You entered 223 ounces
+That's the same as 13 pounds, 15 ounces
+
+
+
+Save as JavaArith4
+==================
+Ask the user for two positive integers. You program will be dividing the
+first number by the second. The form of the output is shown below:
+
+94 divided by 7   = 13 R. 3
+In decimals, this = 13.4286
+
+
+
+Save as JavaArith5
+==================
+Ask the user for the number of donuts to buy and the number of people
+who will be attending a meeting. Then print the information as
+shown below:
+
+Number of donuts = 23
+Number of people = 6
+Each person gets 3 donuts
+There will be 5 donuts left
+

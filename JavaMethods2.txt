@@ -1,0 +1,70 @@
+Computer Science 1 preAP
+Practice with Java methods
+
+Directions:
+===========
+Each of these should have AT LEAST an input method
+and an output method. Additional methods will be
+noted if needed...
+
+
+Save as Methods6
+================
+  Ask the user for four strings. In another method,
+calculate how many of the user's strings are longer
+than 10 characters. Print the results in the output method.
+
+
+Save as Methods7
+================
+  Ask the user for two legs (doubles) of a right
+triangle. Then print out all three sides. You'll be
+computing the hypotenuse (a^2 + b2) in a separate method. Output
+should look like:
+
+Leg1       : 8.520
+Leg2       : 10.700
+Hypotenuse : 13.678
+
+
+Save as Methods8
+================
+  Get three doubles from the user. In another
+method, return which of the first two is the closest
+to the third (whether higher or lower). Output should
+be like:
+
+You entered : 7.50 5.10 6.31 
+7.50 is closer to 6.31
+
+Let's assume that the first two parameters should be
+non-equal values
+
+
+Save as Methods9
+================
+  Get a String from the user. In another method,
+calculate and return a String that is the uppercased
+version of the user's String. In yet another method
+return a String that is the lowercased version of the
+user's String. Output should look like:
+
+Original : "Homer Simpson loves 13 donuts, Hmmmm..."
+Upcased  : "HOMER SIMPSON LOVES 13 DONUTS, HMMMM..."
+Lowcased : "homer simpson loves 13 donuts, hmmmm..."
+
+You can't use the toUpperCase or toLowerCase methods.
+
+
+Save as Methods10
+=================
+  Ask the user for two doubles that represent the
+length and width of a rectangle. In other methods,
+calculate the area and diagonal of the rectangle.
+Output should look like:
+
+Length   : 4.7000 
+Width    : 12.1500
+Area     : 57.1050
+Diagonal : 13.0274
+
