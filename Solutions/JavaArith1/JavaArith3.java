@@ -6,7 +6,8 @@ public class JavaArith3
   {
     System.out.println("Please enter a weight in ounces:");
     Scanner kbd = new Scanner(System.in);
-    int weight = kbd.nextInt();
-    System.out.printf("You entered %d ounces\nThat's the same as %d pounds, %d ounces\n", weight, weight / 16, weight % 16);
+    int ounces = kbd.nextInt();
+    System.out.printf("You entered %d ounces\nThat's the same as %d pounds, %d ounces\n", ounces, ounces / 16, ounces % 16);
+    System.out.print("You entered " + ounces + " ounces\nThat's the same as " + ounces / 16 + " pounds, " + ounces % 16 + " ounces\n");
   }
 }

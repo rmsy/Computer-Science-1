@@ -1,0 +1,65 @@
+Computer Science 1 AP
+Java arithmetic programs
+
+  Make your output EXACTLY matches the form of the example(s)
+********************************************************************
+
+
+Save as JavaArith11
+===================
+Get two points from the user: (x1, y1) and (x2, y2)
+Print the slope of the line between the two points. For
+now, make sure that you don't enter the same number for
+the two x-values. For example, if the points are (-2, 5)
+and (4, -6), the output would be:
+
+For the points (-2, 5) and (4, -6) the slope = -1.8333
+
+
+
+Save as JavaArith12
+===================
+Ask the user for the starting odometer reading, the ending
+odometer reading, the number of gallons used, and the price
+per gallon. Then calculate the total miles, the miles per
+gallon, and the total cost. The output should be like this:
+
+  Ending mileage : 24524
+Starting mileage : 23950
+     Total miles : 574
+    Gallons used : 25
+           Price : $1.09
+
+
+Miles per gallon : 22.96
+      Total cost : $27.25
+
+
+Save as JavaArith13
+===================
+Ask the user for the prices of three items. Then ask for
+the sales tax rate, and calculate the total cost including
+tax. For example, if items cost $15.98, $6.50, and $139.75,
+and the tax rate was 0.08, the output would look like:
+
+Items
+======================
+                 15.98
+                  6.50
+                139.75
+======================
+Tax              12.98
+           ===========
+Total           175.21
+
+
+
+Save as JavaArith14
+===================
+Ask the user for the number of games won and the number of
+games lost. After calculating, the output should look like:
+
+Your team played 29 games, winning 17 and losing 12
+Your winning percentage is 58.62%
+
+
