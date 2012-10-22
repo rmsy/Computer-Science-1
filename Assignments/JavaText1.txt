@@ -1,0 +1,105 @@
+Computer Science 1 AP
+Practice with text files
+
+When it says that a file is on the disk, it means the hard drive, your
+jump drive, etc.
+
+
+Save as Text1
+=============
+  This program will get information from a file named "text1.dat"
+on the disk. The information is stored in this form:
+
+int
+int
+int
+int
+
+Read these four integers from the file and print them out in
+a neat form.
+
+
+Save as Text2
+=============
+  This program will get information from a file named "text2.dat"
+on the disk. The information is stored in this form:
+
+double
+double
+double
+double
+double
+
+Read these five doubles from the file and print them out in this
+form:
+
+      2.3581
+    175.0012
+      0.6000
+   1852.3000
+     28.0500
+
+Notice that the numbers should be printed with 4 decimal places no
+matter how many decimal places the number has in the file. Also,
+the decimal points should all line up.
+
+
+Save as Text3
+=============
+  This program will get information from a file named "text3.dat"
+on the disk. The information is stored in this form:
+
+String
+String
+String
+
+The Strings represent the names of cities. Print them out in a
+neat, informative way.
+
+
+Save as Text4
+=============
+  This program will get information from a file named "text4.dat" on
+the disk. The information is stored in this form:
+
+name
+address
+age
+school
+gpa
+
+name, address, and school are Strings; age is an int; gpa is a double.
+
+The information obtained should print out in this form:
+
+Name    : Lisa Simpson
+Address : 1234 Subnormal Lane
+Age     : 15
+School  : I.M. Loco High School
+GPA     : 3.9000
+
+NOTE: Any time that you read in a number and THEN read in a String,
+      you should use a line of code that looks like this before
+      reading in the String.
+
+      infile.nextLine();
+
+
+Save as Text5
+=============
+  This program will get information from a file named "text5.dat" on
+the disk. The information is stored in this form:
+
+test1
+test2
+test3
+test4
+
+All of the data are ints.
+
+Calculate the average (double) of these 4 test scores. The
+information obtained should print out in this form:
+
+Tests   : 94 87 72 96
+Average : 87.250
+
