@@ -1,0 +1,80 @@
+Computer Science 1 AP
+Practice with text files
+
+When it says to store data into a file on the disk, it means the hard drive or your jump drive, etc.
+
+Save as Text19
+==============
+Ask the user for their name, address, and age. Store these into a
+file named "text19.out" on the disk. The form should be:
+
+Name    : Ben Barnes
+Address : 1234 Main St.
+Age     : 97
+
+
+
+Save as Text20
+==============
+Ask the user for four integers. Compute the average of the integers
+and store them into a file named "text20.out" on the disk. The form
+should be:
+
+Your numbers were:
+125
+67
+93
+82
+The average = 91.750
+
+
+
+Save as Text21
+==============
+Ask the user for two points: (x1, y1) and (x2, y2). Compute the
+slope and save the data into a file named "text21.out" on the
+disk. The form should be:
+
+Point 1 : (-3, 4)
+Point 2 : (5, -2)
+Slope   : -0.7500
+
+
+
+Save as Text22
+==============
+Each bus can hold 50 people. A bus must be full to be used.
+Ask the user for the number of people wanting to go on a
+road trip. Then save the data into a file named "text22.out"
+on the disk. The form is:
+
+Total people : 223           //Example 1
+Busses used  : 4
+People left  : 23
+
+
+Total people : 350           //Example 2
+Busses used  : 7
+People left  : 0
+
+
+Total people : 47            //Example 3
+Busses used  : 0
+People left  : 47
+
+
+
+Save as Text23
+==============
+    Ask the user for two item names (String), the cost of each
+of those items (double), and the number of each item they want.
+Save output to a file named "text23.out" on the disk. Please
+make the output look similar to:
+
+
+Item               Price each      Quantity            Total
+============================================================
+      Plaid Coat       125.99             2           251.98
+           Candy         0.85            11             9.35
+                                      TOTAL           261.33
+

@@ -1,0 +1,110 @@
+Computer Science 1 AP
+Practice with text files
+
+When it says that a file is on the disk, it means the hard drive, your
+jump drive, etc.
+
+
+Save as Text11
+==============
+  This program will get information from a file named "text11.dat" on
+the disk. The information is stored in this form:
+
+-4  7
+2  -8
+
+The file contains two integers per line; these integers represent
+the coordiates of two points (x1, y1) and (x2, y2). You will be
+computing the slope of the line between the two points. The
+information obtained should print out in this form:
+
+For points (-4, 7) and (2, -8) the slope is -2.5000
+
+
+
+Save as Text12
+==============
+  This program will get information from a file named "text12.dat" on
+the disk. The information is stored in this form:
+
+Simpson
+Homer
+J
+
+The first two items are Strings and the third is a char. The
+information obtained should print out in this form:
+
+The name entered was : Simpson, Homer J.
+
+
+
+Save as Text13
+==============
+  This program will get information from a file named "text13.dat" on
+the disk. The information is stored in this form:
+
+4
+8
+3
+
+Each of these items is an int and they represent the length,
+width, and depth of a rectangular fish tank. The output should
+look like:
+
+A tank that is 4 X 8 X 3 has a volume of 96 cu. units
+
+
+
+Save as Text14
+==============
+  This program will get information from a file named "text14.dat" on
+the disk. The information is stored in this form:
+
+18.50
+9.75
+0.38
+125.00
+0.08
+
+The first four items are doubles that represent the cost of 
+four items in a store. The fifth item is a double that represents
+the sales tax rate. The output should look like:
+
+Your items cost:
+                  18.50
+                   9.75
+                   0.38
+                 125.00
+
+tax               12.29  
+=======================
+Total            165.92
+
+NOTE: you can assume no item will cost more than 999.99; also
+      notice that the decimal points all line up
+
+
+
+Save as Text15
+==============
+  This program will get information from a file named "text15.dat" on
+the disk. The information is stored in this form:
+
+100
+0
+54
+81
+
+These items all represent integer temperatures measured in Celsius
+degrees. The output should be in this form:
+
+100 degrees Celsius = 212.0 degrees Fahrenheit
+0 degrees Celsius = 32.0 degrees Fahrenheit
+54 degrees Celsius = 129.2 degrees Fahrenheit
+81 degrees Celsius = 177.8 degrees Fahrenheit
+
+                                      9
+NOTE: The formula is:   Fahrenheit = ---(Celsius) + 32
+                                      5
+
+

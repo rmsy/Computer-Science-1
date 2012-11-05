@@ -8,7 +8,7 @@ public class Text5
     FileReader file = null;
     try
     {
-      file = new FileReader("F:\\Java\\Resources\\text5.dat");
+      file = new FileReader("../../Resources/JavaText1/text5.dat");
     } catch(FileNotFoundException fileNotFound)
     {   
       System.out.println("The file was not available.");

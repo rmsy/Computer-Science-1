@@ -1,25 +1,21 @@
 import java.io.*;
 import java.util.*;
 
-public class Text3
+public class Text7
 {
   public static void main(String[] args)
   {
     FileReader file = null;
     try
     {
-      file = new FileReader("../../Resources/JavaText1/text3.dat");
+      file = new FileReader("../../Resources/JavaText2/text7.dat");
     } catch(FileNotFoundException fileNotFound)
     {   
       System.out.println("The file was not available.");
       return;
     }
     Scanner fr = new Scanner(file);
-    System.out.println("=====================");
-    System.out.println("=Ln|           Value=");
-    System.out.println("=====================");
-    System.out.printf("= 1|%16s=\n= 2|%16s=\n= 3|%16s=\n", fr.nextLine(), fr.nextLine(), fr.nextLine());
-    System.out.println("=====================");
+    System.out.printf("%10.4f\n%10.4f\n%10.4f\n%10.4f\n", fr.nextDouble(), fr.nextDouble(), fr.nextDouble(), fr.nextDouble());
     try
     {
       file.close();

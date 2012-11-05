@@ -1,0 +1,130 @@
+Computer Science 1 AP
+Practice with text files
+
+When it says that a file is on the disk, it means the hard drive, your
+jump drive, etc.
+
+
+Save as Text6
+=============
+  This program will get information from a file named "text6.dat" on
+the disk. The information is stored in this form:
+
+title
+title
+title
+title
+
+All of the titles are Strings. The information obtained should
+print out in this form:
+
+The titles were:
+  "Illusions"
+  "To Kill a Mockingbird"
+  "Atlas Shrugged"
+  "Along Came a Spider"
+
+The double quotes (") should surround the titles. If you don't know how
+to do this, just ask.
+
+
+Save as Text7
+=============
+  This program will get information from a file named "text7.dat" on
+the disk. The information is stored in this form:
+
+double
+double
+double
+double
+
+The information obtained should print out in this form:
+
+   19.4500
+  725.8000
+    0.6810
+  999.9999
+
+Notice that all of the decimal points line up.
+
+
+
+Save as Text8
+=============
+  This program will get information from a file named "text8.dat" on
+the disk. The information is stored in this form:
+
+double
+double
+double
+int
+
+The first three numbers represent the sides of a triangle. The 
+fourth number is an integer scale factor. Output should be 
+in this form:
+
+The original triangle sides were:
+   2.870 
+  11.900
+  10.750
+
+With a scale factor of 2, the new triangle sides are:
+   5.740
+  23.800
+  21.500
+
+Notice that the values have three decimal places and that the decimal
+points line up.
+
+
+Save as Text9
+=============
+  This program will get information from a file named "text9.dat" on
+the disk. The information is stored in this form:
+
+String
+String
+String
+
+Print the output in this form:
+
+String 1 : Homer Simpson for president
+String 2 : I love computers!
+String 3 : Is it spring break yet?
+
+String 1 has 27 characters
+String 2 has 17 characters
+String 3 has 23 characters
+
+You can find how many characters are in a String by using
+the length method for Strings. So if you have a String named
+s1, you can count its characters by doing this:
+
+x = s1.length();     //Here, x is an integer that was already declared
+
+
+Save as Text10
+==============
+  This program will get information from a file named "text10.dat" on
+the disk. The information is stored in this form:
+
+right
+wrong
+
+where right and wrong are both ints that represent how many questions
+were answered correctly and how many were not. Assuming that the first
+integer in the file was 20 and the second one was 12, the output should 
+look like:
+
+Correct : 20
+Wrong   : 12
+% Correct = 62.50%
+
+
+
+  
+
+
+
+
+

@@ -8,7 +8,7 @@ public class Text1
     FileReader file = null;
     try
     {
-      file = new FileReader("D:\\Java\\Resources\\text1.dat");
+      file = new FileReader("../../Resources/JavaText1/text1.dat");
     } catch(FileNotFoundException fileNotFound)
     {   
       System.out.println("The file was not available.");
